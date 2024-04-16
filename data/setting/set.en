@@ -1,0 +1,10 @@
+*//Участники разработки
+set photoshoper=Nobody;
+set scenest=Nobody;
+set music_man=Nobody;
+*//Настройка
+str font=data/font/beer money.ttf;
+str soundtrack=data/sounds/Clean Kick.mp3;
+str sound1=data/sounds/Animated Language.mp3;
+str sound2=data/sounds/GrubbyVacation.mp3;
+int size_font=20;

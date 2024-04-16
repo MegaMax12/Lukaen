@@ -1,0 +1,20 @@
+laptop{
+	fon bg_menu.jpg;
+	btn: 970, 440: continue;
+	btn: 970, 480: play;
+	btn: 970, 520: achievements;
+	btn: 970, 560: records;
+	btn: 970, 600: setting;
+	btn: 970, 640: exit;
+	txt: 110, 600: Новелла;
+}
+pc{
+	fon bg_menu.jpg;
+	btn: 1070, 540: continue;
+	btn: 1070, 580: play;
+	btn: 1070, 620: achievements;
+	btn: 1070, 660: records;
+	btn: 1070, 700: setting;
+	btn: 1070, 740: exit;
+	txt: 110, 700: Новелла;
+}
