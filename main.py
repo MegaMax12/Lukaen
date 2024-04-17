@@ -1,7 +1,5 @@
 import pygame,time,json,pickle,sys,os
 
-#test
-
 #RED = (255, 0, 0)
 WHILE = (255, 255, 255)
 BLACK = (0, 0, 0)
@@ -325,7 +323,7 @@ def questions(stringz, varz):
 					print(i)
 		for i in range(len(stringz)):
 			sc.blit(choice_bg, (x, y))
-			sc.blit(c.render(stringz[i], False, WHILE), (x + 300, y))
+			sc.blit(font_c.render(stringz[i], False, WHILE), (x + 300, y))
 			y += size
 		clock.tick(fps)
 		pygame.display.update()
